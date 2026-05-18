@@ -2,7 +2,7 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rickyhi)](https://solved.ac/rickyhi/)
 
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/깃허브아이디"/>
+  <img src="https://render.gitanimals.org/farms/rickyhi99"/>
 </a>
 
 # :mailbox_with_mail: Contacts
